@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="practica_1_saludo">Bienvenido a la Práctica rectangulo</string>
+    <string name="txtNombre">Ingrese su nombre</string>
+    <string name="btnPulsar">Entrar</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="btnCerrar">Cerrar</string>
+</resources>
